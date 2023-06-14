@@ -24,4 +24,5 @@ FeedbackCard.propTypes = {
   img: PropTypes.string.isRequired,
 };
 
+
 export default FeedbackCard;
