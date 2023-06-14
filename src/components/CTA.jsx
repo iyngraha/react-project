@@ -1,5 +1,5 @@
-import styles from "../style"
-import Button from "./Button"
+import styles from "../style";
+import Button from "./Button";
 
 
 const CTA = () => (
@@ -13,7 +13,7 @@ const CTA = () => (
       <Button />
     </div>
   </section>
-)
+);
 
 
-export default CTA
+export default CTA;

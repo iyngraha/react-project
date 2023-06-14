@@ -1,6 +1,6 @@
-import { feedback } from "../constants"
-import styles from "../style"
-import FeedbackCard from "./FeedbackCard"
+import { feedback } from "../constants";
+import styles from "../style";
+import FeedbackCard from "./FeedbackCard";
 
 
 const Testimonials = () => (
@@ -22,6 +22,6 @@ const Testimonials = () => (
     </div>
 
   </section>
-)
+);
 
-export default Testimonials
+export default Testimonials;
